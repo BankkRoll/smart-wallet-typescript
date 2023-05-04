@@ -1,6 +1,6 @@
 This fork is just converted to typescript 
 
-Please visit he original repo - > [thirdweb-example/smart-wallet-react](https://github.com/thirdweb-example/smart-wallet-react)
+Please visit the original repo - > [thirdweb-example/smart-wallet-react](https://github.com/thirdweb-example/smart-wallet-react)
 
 ## Getting Started
 
